@@ -1,0 +1,6 @@
+{
+  "Income": 50000,
+  "Transaction_amount": 300,
+  "transactionHash": "0x123abc",
+  "paymentMethod": "UPI"
+}
