@@ -38,9 +38,8 @@ Simulates secure transactions using Ganache and MetaMask.
 ├── README.md
 
 🤝 Contributors
-Saksham Gupta
 
-Janeesh Reddy
+Saksham Gupta, Janeesh Reddy
 
 📜 License
 This project is for educational and research purposes.
